@@ -23,7 +23,7 @@ class _LoanCalculatorScreenState extends State<LoanCalculatorScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Loan Calculator"),
+        title: Text("Loan Repayment Calculator"),
         backgroundColor: Colors.deepPurple,
       ),
       body: Padding(
