@@ -19,7 +19,8 @@ This is a simple **Flutter Loan Repayment Calculator App** that built using **Fl
 
 | Splash Screen | Loan Calculator Screen |
 |---------------|------------------------|
-| ![Splash](assets/screenshots/Splash Screen.png) | ![Calculator](assets/screenshots/Loan Calculator Screen.png) |
+| ![Splash](https://github.com/mily86/loan-calculator/blob/main/assets/screenshots/Loan%20Calculator%20Screen.png) | 
+  ![Calculator](https://github.com/mily86/loan-calculator/blob/main/assets/screenshots/Loan%20Calculator%20Screen.png) |
 
 ---
 
