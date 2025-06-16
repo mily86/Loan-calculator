@@ -23,24 +23,15 @@ This is a simple **Flutter Loan Repayment Calculator App** that built using **Fl
 
 ---
 
+
+
 ## 🚀 How to Run the App
 
-1. **Clone the repo**
+1. **Clone the Repositories**
    ```bash
    git clone https://github.com/mily86/loan-calculator.git
    cd flutter-loan-calculator
 
 
-This assigement helped me to understand several Flutter concepts:
 
-- Navigating between screens using Navigator and pushReplacement
-
-- Managing app lifecycle with initState and Future.delayed for splash timing
-
-- Building responsive layouts with Column, Center, and Padding
-
-- Using Image.asset to display images from assets
-
-- Handling user input with TextEditingController and validation
-
-- Implementing dropdown menus and calculation logic in a stateful widget
+This assignment gave me practical experience with building a functional Flutter application. I learned how to navigate between screens, manage app state, and structure a responsive user interface. Besides, I'm also learned implementing user input handling, form validation, and calculation logic in a stateful widget.It helped me to understand how Flutter manages interaction and state changes. Overall, the project strengthened my understanding of Flutter's widget tree, lifecycle methods, and UI design principles.
