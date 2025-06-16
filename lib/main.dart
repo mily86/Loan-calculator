@@ -50,7 +50,7 @@ class _SplashScreenState extends State<SplashScreen> {
           children: [
             Image.asset('assets/images/splash.png', scale: 1),
             const Text(
-              "Loan Calculator",
+              "Loan Repayment Calculator",
               style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
             ),
             const CircularProgressIndicator(),
